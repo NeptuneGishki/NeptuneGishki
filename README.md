@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ##Heya the names neptune!
-##I'm a programmer who specialises in Python and do most of my programming in my course but sometimes do it for fun with game development 
+
+##I'm a programmer who specialises in Python and do most of my programming in my course but sometimes do it for fun with game development
+
 ##I go by he/him but honestly do not mind whatever the hell you refer to me by 🐟
+
 ##Finally I need to talk about my big project.Im currently working on an anime fighter similar to guilty gear or blazblue and are working hard on character design,programming etc as it is currently a solo project :(
