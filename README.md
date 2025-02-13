@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Heya the names neptune!
-
 ##I'm a programmer who specialises in Python and do most of my programming in my course but sometimes do it for fun with game development
 
 ##Also i'm currently working on a big game project called ACE OF SPADES and are planning to reveal more about it in the future##
